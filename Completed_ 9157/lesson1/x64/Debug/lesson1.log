@@ -1,0 +1,14 @@
+﻿  Application.cpp
+D:\C++\Test\OpenGLProj\Lesson09\lesson1\src\Application.cpp(5,1): warning C4005: 'GLEW_STATIC': macro redefinition
+D:\C++\Test\OpenGLProj\Lesson09\lesson1\src\Application.cpp : message : see previous definition of 'GLEW_STATIC'
+D:\C++\Test\OpenGLProj\Lesson09\lesson1\src\Application.cpp(351,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\C++\Test\OpenGLProj\Lesson09\lesson1\src\Application.cpp(568,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\Test\OpenGLProj\Lesson09\lesson1\src\Application.cpp(572,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\Test\OpenGLProj\Lesson09\lesson1\src\Application.cpp(667,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\Test\OpenGLProj\Lesson09\lesson1\src\Application.cpp(668,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\Test\OpenGLProj\Lesson09\lesson1\src\Application.cpp(671,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++\Test\OpenGLProj\Lesson09\lesson1\src\Application.cpp(672,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++\Test\OpenGLProj\Lesson09\lesson1\src\Application.cpp(674,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\Test\OpenGLProj\Lesson09\lesson1\src\Application.cpp(675,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\Test\OpenGLProj\Lesson09\lesson1\src\Application.cpp(684,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  lesson1.vcxproj -> D:\C++\Test\OpenGLProj\Lesson09\x64\Debug\lesson1.exe
