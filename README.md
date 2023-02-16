@@ -20,16 +20,16 @@ Mouse Movement / XY (Works for 3D Cube Object / Camera Mode)
 
 Rectangle
 
-![Gif of a Rectangle](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/Rectangle.gif)
+![Gif of a Rectangle](https://github.com/phillip8232/Learn3D/blob/main/Learn3D/Gifs/Rectangle.gif)
 
 Triangle
 
-![Gif of a Triangle](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/Triangle.gif)
+![Gif of a Triangle](https://github.com/phillip8232/Learn3D/blob/main/Learn3D/Gifs/Triangle.gif)
 
 Camera Mode
 
-![Gif of Camera Mode](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/CameraMode.gif)
+![Gif of Camera Mode](https://github.com/phillip8232/Learn3D/blob/main/Learn3D/Gifs/CameraMode.gif)
 
 Wireframe Mode
 
-![Gif of Wireframe Mode](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/Wireframe_Mode.gif)
+![Gif of Wireframe Mode](https://github.com/phillip8232/Learn3D/blob/main/Learn3D/Gifs/Wireframe_Mode.gif)
