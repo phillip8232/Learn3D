@@ -14,7 +14,7 @@ W - Wireframe Mode
 
 Scroll Wheel - Zoom in and out (Works for 3D Cube Object / Camera Mode)
 
-Mouse Movement Left & Right (Works for 3D Cube Object / Camera Mode)
+Mouse Movement / XY (Works for 3D Cube Object / Camera Mode)
 
 
 
