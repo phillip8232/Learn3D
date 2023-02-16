@@ -20,22 +20,16 @@ Mouse Movement Left & Right (Works for 3D Cube Object / Camera Mode)
 
 Rectangle
 
-![Animation1](C:\Users\Phill\Desktop\Animation\Animation1.gif)
-
-
+[Learn3D/Rectangle.gif at main · phillip8232/Learn3D (github.com)](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/Rectangle.gif)
 
 Triangle
 
-![Animation2](C:\Users\Phill\Desktop\Animation\Animation2.gif)
-
-
+[Learn3D/Triangle.gif at main · phillip8232/Learn3D (github.com)](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/Triangle.gif)
 
 Camera Mode
 
-![Animation3](C:\Users\Phill\Desktop\Animation\Animation3.gif)
-
-
+[Learn3D/CameraMode.gif at main · phillip8232/Learn3D (github.com)](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/CameraMode.gif)
 
 Wireframe Mode
 
-![Animation4](C:\Users\Phill\Desktop\Animation\Animation4.gif)
+[Learn3D/Wireframe_Mode.gif at main · phillip8232/Learn3D (github.com)](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/Wireframe_Mode.gif)
