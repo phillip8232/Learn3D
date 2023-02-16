@@ -1,21 +1,41 @@
-## Welcome to my OpenGL Completed Prototype of my Games Engine.
+# Learn3D
 
-This is part of an assessment I had to make for my course.
+Learn3D is a simple, educational prototype game engine project that allows you to explore 2D and 3D models in the scenes. 
 
-I was required to create 3 basic shapes which were;
+The engine comes with pre-loaded 2D and 3D models, giving you a range of objects to explore and learn from. Each model has different views, which can be toggled using the controls provided.
+
+
+
+Keybinds:
+
+W - Wireframe Mode
+
+1 to 5 - different Objects
+
+Scroll Wheel - Zoom in and out (Works for 3D Cube Object / Camera Mode)
+
+Mouse Movement Left & Right (Works for 3D Cube Object / Camera Mode)
+
+
 
 Rectangle
 
-![rectangle](https://github.com/phillip8232/Prototype_9157/blob/main/Prototype_9157/rectangle.png)
+![Animation1](C:\Users\Phill\Desktop\Animation\Animation1.gif)
+
+
 
 Triangle
 
-![triangle](https://github.com/phillip8232/Prototype_9157/blob/main/Prototype_9157/triangle.png)
-
-An extra shape of my choice.
-
-![polygon](https://github.com/phillip8232/Prototype_9157/blob/main/Prototype_9157/polygon.png)
+![Animation2](C:\Users\Phill\Desktop\Animation\Animation2.gif)
 
 
 
-Testing the push before
+Camera Mode
+
+![Animation3](C:\Users\Phill\Desktop\Animation\Animation3.gif)
+
+
+
+Wireframe Mode
+
+![Animation4](C:\Users\Phill\Desktop\Animation\Animation4.gif)
