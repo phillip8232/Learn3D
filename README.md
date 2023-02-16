@@ -20,16 +20,16 @@ Mouse Movement Left & Right (Works for 3D Cube Object / Camera Mode)
 
 Rectangle
 
-[Learn3D/Rectangle.gif at main · phillip8232/Learn3D (github.com)](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/Rectangle.gif)
+![Gif of a Rectangle](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/Rectangle.gif)
 
 Triangle
 
-[Learn3D/Triangle.gif at main · phillip8232/Learn3D (github.com)](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/Triangle.gif)
+![Gif of a Triangle](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/Triangle.gif)
 
 Camera Mode
 
-[Learn3D/CameraMode.gif at main · phillip8232/Learn3D (github.com)](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/CameraMode.gif)
+![Gif of Camera Mode](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/CameraMode.gif)
 
 Wireframe Mode
 
-[Learn3D/Wireframe_Mode.gif at main · phillip8232/Learn3D (github.com)](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/Wireframe_Mode.gif)
+![Gif of Wireframe Mode](https://github.com/phillip8232/Learn3D/blob/main/Completed_ 9157/Gifs/Wireframe_Mode.gif)
